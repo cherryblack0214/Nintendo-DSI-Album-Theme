@@ -1,0 +1,10 @@
+{
+  "name": "Nintendo DSi Camera - Album Theme",
+  "description": "Music from the DSI Camera",
+  "author": "cherryblack0214",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
