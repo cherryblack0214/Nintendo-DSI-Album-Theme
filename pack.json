@@ -3,7 +3,7 @@
   "description": "Music from the DSI Camera",
   "author": "cherryblack0214",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": true,
   "ignore": [],
 }
